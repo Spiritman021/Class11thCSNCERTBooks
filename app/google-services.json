@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700544784012",
+    "project_id": "ncert-class-11th-cs",
+    "storage_bucket": "ncert-class-11th-cs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700544784012:android:e3e05b3eb8ebe646ae0da9",
+        "android_client_info": {
+          "package_name": "com.tworoot2.computerscience11ncert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700544784012-mcc7f49khq0i6sjsfhbbbd3tpuu75lok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlNtHmhnkzTBIBLNEZPTiq-lrq6MDrnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700544784012-mcc7f49khq0i6sjsfhbbbd3tpuu75lok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
